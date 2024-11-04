@@ -1,0 +1,1 @@
+# mnist_data_pratice_cnn
